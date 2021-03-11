@@ -10,4 +10,4 @@ O projeto utiliza as seguintes ferramentas:
 * Javascript
 
 ## :mortar_board: Tutorial Autor 
-A tutorial foi feito pelo canal no youtube  <a href="https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA?pbjreload=102">Easy Tutorials</a>
+A tutorial encontra-se canal no youtube  <a href="https://www.youtube.com/channel/UCkjoHfkLEy7ZT4bA2myJ8xA?pbjreload=102">Easy Tutorials</a>
